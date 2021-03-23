@@ -1,0 +1,10 @@
+{   
+    "fr" : "French",
+    "en" : "English",
+
+    "home" : "Home",
+    "home.title" : "this is a home page",
+
+    "about" : "About",
+    "about.title" : "This is an about page"
+}

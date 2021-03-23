@@ -1,0 +1,10 @@
+{
+    "fr" : "Français",
+    "en" : "Anglais",
+
+    "home" : "Accueil",
+    "home.title" : "C'est la page d'accueil",
+
+    "about" : "A propos",
+    "about.title" : "C'est la page à propos"
+}
